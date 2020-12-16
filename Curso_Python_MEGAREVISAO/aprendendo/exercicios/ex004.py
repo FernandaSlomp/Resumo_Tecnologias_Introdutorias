@@ -1,0 +1,6 @@
+n = input('digite algo')
+#print(f'é numerico?', n.isnumeric(), '\nÉ alfabético?', n.isalpha(), '\nÉ alfanumérico?', n.isalnum())
+print('É numerico?', n.isnumeric())
+print('Só tem espaço?', n.isspace())
+print('Só tem letras?', n.isalpha())
+print('É alfanumerico?', n.isalnum())

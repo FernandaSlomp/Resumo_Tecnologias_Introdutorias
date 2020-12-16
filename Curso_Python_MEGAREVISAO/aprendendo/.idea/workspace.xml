@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b297d560-7846-45d6-b0a0-258e7951dd17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a30pMhukGzDG3BSRvC8AP6YJnz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ferna\PycharmProjects\aprendendo\exercicios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ferna\PycharmProjects\aprendendo\exercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex094">
+    <configuration name="ex090.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios2/ex090.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios2/ex091.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios2/ex092.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios2/ex093.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex094" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aprendendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios2/ex094.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex094" />
+        <item itemvalue="Python.ex093" />
+        <item itemvalue="Python.ex092" />
+        <item itemvalue="Python.ex091" />
+        <item itemvalue="Python.ex090.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b297d560-7846-45d6-b0a0-258e7951dd17" name="Default Changelist" comment="" />
+      <created>1585949153031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585949153031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Inspections" timestamp="1589831442584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589831442584" />
+    <state x="175" y="0" key="#Intentions" timestamp="1586126675450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1586126675450" />
+    <state x="386" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585958456864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585958456864" />
+    <state x="412" y="43" key="FileChooserDialogImpl" timestamp="1590697265042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="43" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590697265042" />
+    <state width="1294" height="134" key="GridCell.Tab.0.bottom" timestamp="1591315355805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1294" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591315355805" />
+    <state width="1294" height="134" key="GridCell.Tab.0.center" timestamp="1591315355805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1294" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591315355805" />
+    <state width="1294" height="134" key="GridCell.Tab.0.left" timestamp="1591315355805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1294" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591315355805" />
+    <state width="1294" height="134" key="GridCell.Tab.0.right" timestamp="1591315355805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1294" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591315355805" />
+    <state width="1311" height="193" key="GridCell.Tab.1.bottom" timestamp="1591059665974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="193" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591059665974" />
+    <state width="1311" height="193" key="GridCell.Tab.1.center" timestamp="1591059665974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="193" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591059665974" />
+    <state width="1311" height="193" key="GridCell.Tab.1.left" timestamp="1591059665974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="193" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591059665974" />
+    <state width="1311" height="193" key="GridCell.Tab.1.right" timestamp="1591059665974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="193" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591059665974" />
+    <state x="60" y="0" key="SettingsEditor" timestamp="1586131073894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586131073894" />
+    <state x="301" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1591399611856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591399611856" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1590784134062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590784134062" />
+  </component>
+</project>
